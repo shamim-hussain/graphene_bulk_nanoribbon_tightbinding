@@ -1,4 +1,4 @@
-# Band Structure of Bulk and Nano-ribbon Graphe by Tight Binding Method
+# Band Structure of Bulk and Nano-ribbon Graphene by Tight Binding Method
 Nearest neighbor tight-binding estimation of band structures of bulk and nano-ribbon (Armchair and Zigzag) graphene.
 
 For more info see the "Report.pdf".
